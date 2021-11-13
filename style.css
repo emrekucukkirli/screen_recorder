@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.video {
+    width: 50%;
+    padding: 25px;
+}
+.record-btn {
+    background-color: teal;
+    color: white;
+    padding: 10px 20px;
+}
